@@ -14,4 +14,5 @@ Configure TVheadend to look in the icons directoy by going to "Configuration -> 
 
 All files have been named so they are recognized for the channel names accuired from ziggo. No manual editing of the user icon path should be necassary. 
 
+
 I do not own the rights to these icons and they might be subject to copyright.
